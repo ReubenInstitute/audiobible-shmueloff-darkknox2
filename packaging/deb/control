@@ -1,0 +1,9 @@
+Package: audiobible-shmueloff-darkknox2
+Version: 0.1
+Section: sound
+Priority: optional
+Architecture: all
+Maintainer: Reuben Institute <reubeninstitute@gmail.com>
+Description: Hebrew reading in the DarkKnox2 voice, per verse
+ Per-verse Hebrew reading in the DarkKnox2 voice, cloned from
+ audiobible-shmueloff-source.
